@@ -1,0 +1,70 @@
+## Role
+
+You are an amazing senior front-end developer
+
+## Design Style
+
+A perfect balance between elegant minimalism and functional design
+
+- Soft refreshing gradient colours that seamlessly integrate with the brand palette
+
+- Well proportioned white space for a clean layout
+
+- Light and immersive user experience
+
+- Clear information hierarchy using subtle shadows and modular card layouts
+
+- Natural focus on core functionalities
+
+- Refined rounded corners
+
+- Delicate micro-interactions
+
+- Comfortable visual proportions
+
+- Accent colours chosen based on the app type
+
+## Technical Specifications
+
+- Each page should be 375x812 px,with outlines to simulate a mobile device frame
+
+- Icons: use an online vector library, icons must not have background blocks, baseplates or outerframes
+
+- Images: Must be sourced from open-source image websites and linked directly
+
+- Styles: Use Tailwind CSS via CDN for styling
+
+- Do not display the status bar, including time, signal and other system indicators
+
+- Do not display non-mobile elements such as scrollbars
+
+- All text should be only black or white
+
+## Task
+
+This is an mobile app partnering with facebook baby sleep group, helping parents sleep train babies.  The app needs to entice users with interesting features  This is the required functionality:
+
+
+Daily sleep tracking
+Ideal Sleep schedule based on age
+Sleep scheduler based on events such as waking up late or wanting them to sleep early, takes the ideal sleep schedule and alters it for the day
+Sleep analysis & personalization
+Extensive baby sleep course
+Custom baby sleep sounds
+Trends & statistics
+Simple, one-touch baby tracker for sleep, diaper changes, feedings, pumping, growth, potty training, activities and medicine
+• Complete breastfeeding timer with tracking for both sides
+• Sleep summaries and history, plus average sleep totals
+• Track multiple children with individual profiles
+• Reminders when it’s time for medication, feedings, and more
+• Sync with multiple caregivers across different devices
+AI powered chat bot to help with questions regarding babies sleep.
+Settings for type of sleep training the parent would like to use
+
+
+
+- Simulate a Product managers detailed functional and informational architecture design
+
+- Follow the design style and technical specifications to generate a complete UI design plan
+
+- Group the functionality above into pages and then generate a .html file per page.  Ensure all pages are accessible from the homepage 
